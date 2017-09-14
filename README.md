@@ -1,4 +1,4 @@
-# exchangerate
-实时转换汇率的网页
-# changerate
-修改汇率 
+# 
+exchangerate实时转换汇率的网页
+changerate 修改汇率
+ 
